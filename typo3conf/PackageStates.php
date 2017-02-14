@@ -318,10 +318,10 @@ return [
             'packagePath' => 'typo3conf/ext/go_maps_ext/',
             'suggestions' => [],
         ],
-        'guide' => [
-            'composerName' => 'typo3-ter/guide',
+        'min' => [
+            'composerName' => 'instituteweb/min',
             'state' => 'active',
-            'packagePath' => 'typo3conf/ext/guide/',
+            'packagePath' => 'typo3conf/ext/min/',
             'suggestions' => [],
         ],
         'news' => [

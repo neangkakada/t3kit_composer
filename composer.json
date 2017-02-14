@@ -45,7 +45,8 @@
     "typo3-ter/static-info-tables": "^6.3",
     "helhum/typo3-console": "4.1.2",
     "patrickbroens/url-forwarding": "1.2.0",
-    "typo3-ter/guide": "1.0.0"
+    "typo3-ter/guide": "1.0.0",
+    "typo3-ter/min": "1.1.1"
   },
   "require-dev": {
     "t3kit/theme-t3kit": "dev-master",
